@@ -11,7 +11,7 @@
 
 ## 
 <p align="center">
-    <img align="center" alt="SokobanGhost" src="https://tenor.com/view/club-penguin-wave-hi-hello-greeting-greetings-gif-22537047">
+    <img align="center" alt="ClubPenguin" src="https://discord.com/channels/@me/953767348807037008/982111354234208266">
     
 </p>
   
