@@ -11,7 +11,7 @@
 
 ## 
 <p align="center">
-    <img align="center" alt="ClubPenguin" src="https://imgur.com/vU7uKeO">
+    <img align="center" alt="ClubPenguin" src="https://media.giphy.com/media/m7cnRGh5EX38eVnTgD/giphy.gif">
     
 </p>
   
