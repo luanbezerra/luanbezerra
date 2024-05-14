@@ -14,9 +14,3 @@
     <img align="center" alt="ClubPenguin" src="https://media.giphy.com/media/m7cnRGh5EX38eVnTgD/giphy.gif">
     
 </p>
-  
-##
-  
-![Snake Animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/8082840dd4c64b2b8df9e2dc23b1730bbf0c0e73/github-contribution-grid-snake.svg)
-
-##
